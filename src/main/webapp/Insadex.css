@@ -1,3 +1,22 @@
+#titre {
+	z-index : 10;
+	border : solid #1d486d 4px; 
+	border-radius : 5px 5px 5px 5px;
+	width : 300px;
+	height : 100px;
+	position : absolute;
+	left : 675px;
+	top : 75px;
+}
+
+#titre h1{
+	color : #1d486d; 
+	font-size : 50px;
+	margin-top : 20px;
+	margin-left : 40px;
+}
+
+
 #panel {
 	background-color : #b4c5db;
 	border-radius : 15px 15px 0px 0px;
