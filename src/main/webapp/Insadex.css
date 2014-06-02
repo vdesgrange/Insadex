@@ -1,3 +1,11 @@
+#connexion p{
+	z-index : 10;
+	color : #1d486d;
+	position : absolute;
+	top : 5px;
+	right : 40px;
+}
+
 #titre {
 	z-index : 10;
 	border : solid #1d486d 4px; 
