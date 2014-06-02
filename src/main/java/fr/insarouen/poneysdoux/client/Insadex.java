@@ -279,6 +279,8 @@ public class Insadex implements EntryPoint{
 		enteteFlexTable.setText(0, 1, user[0]);
 		enteteFlexTable.setText(0, 2, user[1]);
 		
+		this.image_profil.setUrl("images/"+user[6]);
+		
 		profilFlexTable.setText(0, 0, "Nom : ");
 		profilFlexTable.setText(0, 1, "");
 		profilFlexTable.setText(0, 1, user[0]);
